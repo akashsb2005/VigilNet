@@ -1,0 +1,12 @@
+﻿venv/
+node_modules/
+.env
+__pycache__/
+*.pyc
+dist/
+frontend/dist/
+.vscode/
+
+ml-engine/data/raw/
+
+ml-engine/data/processed/*.pt
